@@ -23,7 +23,6 @@ To set up the hardware for this project, you'll need the following components:
 - Thyristors (Triacs): Control AC loads like lights or fans.
 - Loads: Connect appliances to the triacs for control.
 
-<img src="https://example.com/hardware_setup.jpg" alt="Hardware Setup" width="50%" height="50%">
 
 ## Software Setup
 
@@ -32,7 +31,6 @@ The software setup involves:
 1. Programming the Arduino board to receive Bluetooth commands and control loads accordingly.
 2. Developing a GUI application for Android smartphones to send ON/OFF commands to Arduino via Bluetooth.
 
-<img src="https://example.com/software_setup.jpg" alt="Software Setup" width="50%" height="50%">
 
 ## Getting Started
 
@@ -60,9 +58,6 @@ Here are some ideas for future enhancements:
 
 - [oxBinaryBrain](https://github.com/oxBinaryBrain) - Project lead and main contributor.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
