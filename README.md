@@ -2,59 +2,6 @@
 <html>
 <head>
 <title>Home Automation Using Arduino</title>
-<style>
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f9f9f9;
-    margin: 0;
-    padding: 0;
-}
-
-.container {
-    max-width: 800px;
-    margin: auto;
-    padding: 20px;
-}
-
-h1 {
-    color: #333;
-    text-align: center;
-}
-
-.card {
-    background: #fff;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    margin-bottom: 20px;
-    padding: 20px;
-}
-
-.card h2 {
-    color: #007bff;
-}
-
-.card p {
-    color: #666;
-}
-
-.card ul {
-    padding-left: 20px;
-}
-
-.card ul li {
-    margin-bottom: 5px;
-}
-
-.card a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-.card a:hover {
-    text-decoration: underline;
-}
-</style>
 </head>
 <body>
 
